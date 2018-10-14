@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".jcm9472Activity" />
+        <activity android:name=".OwnerHome" />
+        <activity android:name=".CustomerHome" />
+        <activity android:name=".RestaurantProfile" />
+        <activity android:name=".ViewMenu" />
+        <activity android:name=".OrderConfirmation" />
+        <activity android:name=".EditMenu" />
+        <activity android:name=".Inbox"></activity>
     </application>
 
 </manifest>
