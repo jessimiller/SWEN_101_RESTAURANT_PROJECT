@@ -23,7 +23,8 @@
         <activity android:name=".ViewMenu" />
         <activity android:name=".OrderConfirmation" />
         <activity android:name=".EditMenu" />
-        <activity android:name=".Inbox"></activity>
+        <activity android:name=".Inbox" />
+        <activity android:name=".EditItem"></activity>
     </application>
 
 </manifest>
